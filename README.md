@@ -5,10 +5,18 @@
 
 1. [Introduction](#introduction)
 2. [Features](#features)
+<<<<<<< HEAD
 3. [Installation](#installation)
 4. [Contributing](#contributing)
 5. [Contact](#contact)
 6. [Acknowledgements](#acknowledgements)
+=======
+3. [Projects](#Projects)
+4. [Installation](#installation)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
+7. [Acknowledgements](#acknowledgements)
+>>>>>>> 6372d64e7c435f2ebcb5781fc0d33f4f2b91327c
 
 ## Introduction
 
@@ -20,6 +28,12 @@ Welcome to my Javascript learning repository! This repository contains the Javas
 - Showcasing different projects and exercises completed.
 - Sharing useful resources and notes.
 
+<<<<<<< HEAD
+=======
+## Projects
+
+- Counter 
+>>>>>>> 6372d64e7c435f2ebcb5781fc0d33f4f2b91327c
 ## Installation
 
 ```bash
@@ -49,5 +63,9 @@ I welcome contributions to this repository! If you have suggestions or improveme
 
 - Codecademy: [Introduction to JavaScript](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - https://www.youtube.com/watch?v=EerdGm-ehJQ&t=6660s
+<<<<<<< HEAD
+=======
+- https://www.youtube.com/watch?v=Ihy0QziLDf0&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv
+>>>>>>> 6372d64e7c435f2ebcb5781fc0d33f4f2b91327c
 
 Thank you for visiting my repository. I hope you find it helpful and informative as I embark on this learning journey!
