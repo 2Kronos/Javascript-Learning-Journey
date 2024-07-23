@@ -53,5 +53,6 @@ I welcome contributions to this repository! If you have suggestions or improveme
 
 - Codecademy: [Introduction to JavaScript](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - https://www.youtube.com/watch?v=EerdGm-ehJQ&t=6660s
+- https://www.youtube.com/watch?v=Ihy0QziLDf0&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv
 
 Thank you for visiting my repository. I hope you find it helpful and informative as I embark on this learning journey!
