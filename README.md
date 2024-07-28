@@ -5,10 +5,11 @@
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Contributing](#contributing)
-5. [Contact](#contact)
-6. [Acknowledgements](#acknowledgements)
+3. [Projects](#Projects)
+4. [Installation](#installation)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
+7. [Sources](#Sources)
 
 ## Introduction
 
@@ -20,6 +21,9 @@ Welcome to my Javascript learning repository! This repository contains the Javas
 - Showcasing different projects and exercises completed.
 - Sharing useful resources and notes.
 
+## Projects
+- Counter
+- Random number generator
 ## Installation
 
 ```bash
@@ -45,9 +49,10 @@ I welcome contributions to this repository! If you have suggestions or improveme
 - Email: 21krnonos@gmail.com
 - GitHub: [2Kronos](https://github.com/2Kronos)
 
-## Acknowledgements
+## Sources
 
 - Codecademy: [Introduction to JavaScript](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - https://www.youtube.com/watch?v=EerdGm-ehJQ&t=6660s
+- https://www.youtube.com/watch?v=atS_A9HHAVo&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&index=12
 
 Thank you for visiting my repository. I hope you find it helpful and informative as I embark on this learning journey!
