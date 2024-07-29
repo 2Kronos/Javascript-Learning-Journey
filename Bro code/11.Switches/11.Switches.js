@@ -35,6 +35,8 @@ switch(true){
   case testScore >= 90:
       letterGrade = "A";
       break;
+    }
+      console.log(letterGrade);
 
   case testScore >= 80:
     letterGrade = "B";
