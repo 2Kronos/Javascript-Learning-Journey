@@ -20,3 +20,12 @@ let extension = email.slice(email.indexOf("@") + 1);
 
 console.log(username);
 console.log(extension);
+
+int Number;
+Formatter output; //almost the same as the one above
+output = new Formatter()//if file does not exist we cant be created or exist but cannot write to diretory
+
+Public class Bussiness Account extends Acconut //We saying Businnes account inherets from the classs account
+{
+  
+}

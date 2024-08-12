@@ -29,3 +29,4 @@ let phoneNumber = "123-456-789";
 console.log(phoneNumber);
 
 //console.log(result);
+//print the first character of the string
