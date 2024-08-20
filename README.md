@@ -24,6 +24,7 @@ Welcome to my Javascript learning repository! This repository contains the Javas
 ## Projects
 - Counter
 - Random number generator
+- Number guessing game
 ## Installation
 
 ```bash
